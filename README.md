@@ -44,3 +44,7 @@ Santander — Excel com IA e Claude da plataforma DIO.
 
 ## Projeto
 ![Painel DIO Invest](https://github.com/alessandroo-rgb/SimuladorInvestimentos/blob/main/images/Imagem%20DIOINVEST.PNG)
+
+ Autor
+Alessandro  
+[LinkedIn](https://www.linkedin.com/in/alessandro-oliveira1/)
